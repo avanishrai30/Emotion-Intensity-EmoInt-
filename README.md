@@ -15,8 +15,6 @@ Given a tweet and an emotion X, determine the intensity or degree of emotion X f
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
 
 ## Folder Structure
 1. **Data Folder** - Holds all the input files used for the project
