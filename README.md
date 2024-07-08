@@ -1,4 +1,4 @@
-# Models-EmoInt
+# Models-Emotion Intensity (EmoInt)
 Identify the intensity of emotions in text
 ## Problem Statement-
 Develop methods to identify the intensity of emotions in text and submit a technical paper detailing the approaches used.
